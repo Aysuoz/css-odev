@@ -1,0 +1,33 @@
+/**************** Layout ****************/
+
+body {
+    background-color: #D3DEDC;
+    }
+
+h2{
+    color: #7C99AC;
+}
+
+li{ display: inline ;
+    font-size: 18px;
+    font-family: sans-serif ;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif ;
+}
+
+#baslik {
+    text-align: center;
+    color:black ; 
+    font-size: 60px; 
+    font-family: fantasy;
+}
+
+.text-red {
+    color: #7C99AC
+}
+.fs-large {
+    font-size: 25px;
+}
